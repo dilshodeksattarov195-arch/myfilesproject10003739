@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevalidate",
+        "uuid": 24860611,
+        "checksum": "udgj5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
